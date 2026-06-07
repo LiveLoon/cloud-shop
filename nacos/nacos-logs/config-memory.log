@@ -62014,3 +62014,27 @@
 
 2026-06-07 21:32:00,198 INFO toClientNotifyTaskSize = 0
 
+2026-06-07 21:32:09,903 INFO [long-pulling] client count 0
+
+2026-06-07 21:32:10,131 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2026-06-07 21:32:10,198 INFO toNotifyTaskSize = 0
+
+2026-06-07 21:32:10,198 INFO toClientNotifyTaskSize = 0
+
+2026-06-07 21:32:19,903 INFO [long-pulling] client count 0
+
+2026-06-07 21:32:20,131 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2026-06-07 21:32:20,199 INFO toNotifyTaskSize = 0
+
+2026-06-07 21:32:20,199 INFO toClientNotifyTaskSize = 0
+
+2026-06-07 21:32:29,904 INFO [long-pulling] client count 0
+
+2026-06-07 21:32:30,131 INFO groupCount = 1, subscriberClientCount = 0, subscriberCount = 0
+
+2026-06-07 21:32:30,199 INFO toNotifyTaskSize = 0
+
+2026-06-07 21:32:30,199 INFO toClientNotifyTaskSize = 0
+
