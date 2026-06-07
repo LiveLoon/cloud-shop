@@ -1,0 +1,344 @@
+2026-06-07 00:10:52,386 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 00:13:20,702 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 00:13:59,495 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 00:19:04,771 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 00:40:52,386 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 00:43:20,702 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 00:43:59,495 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 00:49:04,771 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 01:10:52,387 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 01:13:20,702 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 01:13:59,496 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 01:19:04,772 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 01:40:52,387 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 01:43:20,703 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 01:43:59,496 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 01:49:04,772 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:10:52,386 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:13:20,703 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 02:13:59,496 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:19:04,772 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:40:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:43:20,704 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:43:59,497 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 02:49:04,772 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 03:10:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 03:13:20,704 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 03:13:59,497 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 03:19:04,772 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 03:40:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 03:43:20,704 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 03:43:59,498 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 03:49:04,773 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 04:10:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 04:13:20,704 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 04:13:59,498 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 04:19:04,778 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 04:40:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 04:43:20,705 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 04:43:59,498 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 04:49:04,773 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:10:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 05:13:20,705 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:13:59,498 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:19:04,773 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:40:52,389 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:43:20,705 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:43:59,499 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 05:49:04,773 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 06:10:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 06:13:20,706 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 06:13:59,499 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 06:19:04,774 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 06:40:52,389 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 06:43:20,706 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 06:43:59,499 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 06:49:04,774 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 07:10:52,389 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 07:13:20,706 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 07:13:59,500 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 07:19:04,774 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 07:40:52,389 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 07:43:20,706 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 07:43:59,500 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 07:49:04,775 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 08:10:52,390 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 08:13:20,707 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 08:13:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 08:19:04,774 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 08:40:52,388 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 08:43:20,707 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 08:43:59,499 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 08:49:04,774 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 09:10:52,390 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 09:13:20,707 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 09:13:59,500 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 09:19:04,774 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 09:40:52,390 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 09:43:20,707 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 09:43:59,500 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 09:49:04,775 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 10:10:52,398 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 10:13:20,707 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 10:13:59,500 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 10:19:04,775 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 10:40:52,390 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 10:43:20,708 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 10:43:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 10:49:04,775 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:10:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:13:20,708 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:13:59,504 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:19:04,775 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:40:52,390 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:43:20,708 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 11:43:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 11:49:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:10:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:13:20,708 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:13:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:19:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:40:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:43:20,709 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:43:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 12:49:04,775 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 13:10:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 13:13:20,708 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 13:13:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 13:19:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 13:40:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 13:43:20,709 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 13:43:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 13:49:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 14:10:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 14:13:20,709 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 14:13:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 14:19:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 14:40:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 14:43:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 14:43:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 14:49:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:10:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:13:20,709 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:13:59,501 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:19:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:40:52,391 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:43:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:43:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 15:49:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 16:10:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 16:13:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 16:13:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 16:19:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 16:40:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 16:43:20,711 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 16:43:59,503 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 16:49:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:10:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 17:13:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:13:59,503 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:19:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:40:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:43:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:43:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 17:49:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:10:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:13:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 18:13:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:19:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:40:52,392 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:43:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:43:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 18:49:04,776 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:10:52,393 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:13:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:13:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:19:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:40:52,393 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 19:43:20,710 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:43:59,502 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 19:49:04,777 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:10:52,394 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:13:20,712 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:13:59,503 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:19:04,778 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:40:52,394 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 1 ms.
+
+2026-06-07 20:43:20,712 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:43:59,504 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 20:49:04,778 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 21:10:52,394 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 21:13:20,712 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 21:13:59,504 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 5 to 5, cost 0 ms.
+
+2026-06-07 21:19:04,779 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 5 to 5, cost 1 ms.
+

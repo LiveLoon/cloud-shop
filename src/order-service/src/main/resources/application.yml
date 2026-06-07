@@ -1,0 +1,63 @@
+server:
+  port: 8300
+
+spring:
+  application:
+    name: order-service
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:47219/db_product?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true   # 添加该参数
+    username: root
+    password: 123456
+
+  jpa:
+    database: mysql
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect    # 替换已废弃的 MySQL8Dialect
+        format_sql: true
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8858   # 你的 Sentinel 控制台地址
+        port: 8719                # 服务与 Sentinel 通信的端口，确保未被占用
+      eager: true
+feign:
+  sentinel:
+    enabled: true   # 开启 Feign 与 Sentinel 的整合
+
+
+seata:
+  enabled: true
+  application-id: ${spring.application.name}
+  tx-service-group: cloud_shop_tx_group
+  registry:
+    type: nacos
+    nacos:
+      application: seata-server
+      server-addr: 127.0.0.1:8848
+      namespace: ""
+      group: SEATA_GROUP
+      cluster: default
+  config:
+    type: nacos
+    nacos:
+      server-addr: 127.0.0.1:8848
+      namespace: ""
+      group: SEATA_GROUP
+  client:
+    feign:
+      enabled: true
+logging:
+  level:
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE

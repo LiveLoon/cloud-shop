@@ -1,0 +1,766 @@
+2026-06-02 16:12:55,407 INFO Starting Nacos v2.4.3 using Java 1.8.0_402 on ad2e3bd4d27c with PID 1 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2026-06-02 16:12:55,407 INFO The following 1 profile is active: "standalone"
+
+2026-06-02 16:12:55,483 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2026-06-02 16:12:55,484 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2026-06-02 16:12:55,484 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2026-06-02 16:12:55,567 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2026-06-02 16:12:55,622 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2026-06-02 16:12:55,627 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2026-06-02 16:12:55,634 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,634 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,634 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,634 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,634 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,635 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,636 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,637 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2026-06-02 16:12:55,790 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.prometheus.PrometheusApp to avoid duplicate scan
+
+2026-06-02 16:12:56,770 INFO Tomcat initialized with port(s): 8848 (http)
+
+2026-06-02 16:12:56,778 INFO Starting service [Tomcat]
+
+2026-06-02 16:12:56,779 INFO Starting Servlet engine: [Apache Tomcat/9.0.93]
+
+2026-06-02 16:12:56,844 INFO Initializing Spring embedded WebApplicationContext
+
+2026-06-02 16:12:56,844 INFO Root WebApplicationContext: initialization completed in 1403 ms
+
+2026-06-02 16:12:57,025 INFO Nacos-related cluster resource initialization
+
+2026-06-02 16:12:57,028 INFO Load com.alibaba.nacos.core.ability.RemoteAbilityInitializer for ServerAbilityInitializer
+
+2026-06-02 16:12:57,029 INFO Load com.alibaba.nacos.naming.ability.NamingAbilityInitializer for ServerAbilityInitializer
+
+2026-06-02 16:12:57,030 INFO The cluster resource is initialized
+
+2026-06-02 16:12:57,416 INFO HikariPool-1 - Starting...
+
+2026-06-02 16:12:57,418 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2026-06-02 16:12:57,703 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2026-06-02 16:12:57,705 INFO HikariPool-1 - Start completed.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoAggrMapperByMySql) datasource(mysql) tableName(config_info_aggr) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoBetaMapperByMySql) datasource(mysql) tableName(config_info_beta) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoMapperByMySql) datasource(mysql) tableName(config_info) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoTagMapperByMySql) datasource(mysql) tableName(config_info_tag) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigTagsRelationMapperByMySql) datasource(mysql) tableName(config_tags_relation) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.HistoryConfigInfoMapperByMySql) datasource(mysql) tableName(his_config_info) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantInfoMapperByMySql) datasource(mysql) tableName(tenant_info) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantCapacityMapperByMySql) datasource(mysql) tableName(tenant_capacity) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.GroupCapacityMapperByMysql) datasource(mysql) tableName(group_capacity) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoAggrMapperByDerby) datasource(derby) tableName(config_info_aggr) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoBetaMapperByDerby) datasource(derby) tableName(config_info_beta) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoMapperByDerby) datasource(derby) tableName(config_info) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagMapperByDerby) datasource(derby) tableName(config_info_tag) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagsRelationMapperByDerby) datasource(derby) tableName(config_tags_relation) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.HistoryConfigInfoMapperByDerby) datasource(derby) tableName(his_config_info) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantInfoMapperByDerby) datasource(derby) tableName(tenant_info) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantCapacityMapperByDerby) datasource(derby) tableName(tenant_capacity) successfully.
+
+2026-06-02 16:12:57,922 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.GroupCapacityMapperByDerby) datasource(derby) tableName(group_capacity) successfully.
+
+2026-06-02 16:12:58,113 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2026-06-02 16:12:58,455 INFO Ready to get current node abilities...
+
+2026-06-02 16:12:58,457 INFO Ready to initialize current node abilities, support modes: [CLUSTER_CLIENT, SDK_CLIENT, SERVER]
+
+2026-06-02 16:12:58,458 INFO Initialize current abilities finish...
+
+2026-06-02 16:12:58,459 INFO Ready to get current node abilities...
+
+2026-06-02 16:12:58,459 INFO Ready to initialize current node abilities, support modes: [SDK_CLIENT]
+
+2026-06-02 16:12:58,459 INFO Initialize current abilities finish...
+
+2026-06-02 16:12:58,459 INFO [AbilityControlManager] Successfully initialize AbilityControlManager
+
+2026-06-02 16:12:59,298 INFO Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@55a88417, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@18acfe88, org.springframework.security.web.context.SecurityContextPersistenceFilter@62573c86, org.springframework.security.web.header.HeaderWriterFilter@a18649a, org.springframework.security.web.csrf.CsrfFilter@34b27915, org.springframework.security.web.authentication.logout.LogoutFilter@7fd8c559, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@14229fa7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7158daf2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@8a2a6a, org.springframework.security.web.session.SessionManagementFilter@396639b, org.springframework.security.web.access.ExceptionTranslationFilter@56913163]
+
+2026-06-02 16:12:59,479 INFO Adding welcome page: class path resource [static/index.html]
+
+2026-06-02 16:12:59,764 INFO Exposing 1 endpoint(s) beneath base path '/actuator'
+
+2026-06-02 16:12:59,774 WARN You are asking Spring Security to ignore Ant [pattern='/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2026-06-02 16:12:59,774 INFO Will not secure Ant [pattern='/**']
+
+2026-06-02 16:12:59,775 WARN You are asking Spring Security to ignore Mvc [pattern='/prometheus']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2026-06-02 16:12:59,775 INFO Will not secure Mvc [pattern='/prometheus']
+
+2026-06-02 16:12:59,775 WARN You are asking Spring Security to ignore Mvc [pattern='/prometheus/namespaceId/{namespaceId}']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2026-06-02 16:12:59,775 INFO Will not secure Mvc [pattern='/prometheus/namespaceId/{namespaceId}']
+
+2026-06-02 16:12:59,775 WARN You are asking Spring Security to ignore Mvc [pattern='/prometheus/namespaceId/{namespaceId}/service/{service}']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2026-06-02 16:12:59,775 INFO Will not secure Mvc [pattern='/prometheus/namespaceId/{namespaceId}/service/{service}']
+
+2026-06-02 16:12:59,818 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2026-06-02 16:12:59,825 INFO No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+
+2026-06-02 16:12:59,838 INFO Started Nacos in 4.828 seconds (JVM running for 5.111)
+
+2026-06-02 16:12:59,839 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2026-06-02 16:14:44,498 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2026-06-02 16:14:44,498 INFO Initializing Servlet 'dispatcherServlet'
+
+2026-06-02 16:14:44,499 INFO Completed initialization in 1 ms
+
+2026-06-02 16:14:44,510 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2026-06-02 16:14:44,727 INFO [AuthPluginManager] Load AuthPluginService(class com.alibaba.nacos.plugin.auth.impl.NacosAuthPluginService) AuthServiceName(nacos) successfully.
+
+2026-06-02 16:14:44,727 INFO [AuthPluginManager] Load AuthPluginService(class com.alibaba.nacos.plugin.auth.impl.LdapAuthPluginService) AuthServiceName(ldap) successfully.
+
+2026-06-02 16:22:57,978 INFO [capacityManagement] start correct usage
+
+2026-06-02 16:22:58,011 INFO [capacityManagement] end correct usage, cost: 0.028954695s
+
+2026-06-02 16:22:58,115 WARN clearHistoryConfig get scheduled
+
+2026-06-02 16:22:58,115 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 16:22:58,116 WARN clearConfigHistory, getBeforeStamp:2026-05-03 16:22:58.0, pageSize:1000
+
+2026-06-02 16:22:58,152 WARN history config cleaner successfully
+
+2026-06-02 16:32:58,011 INFO [capacityManagement] start correct usage
+
+2026-06-02 16:32:58,012 INFO [capacityManagement] end correct usage, cost: 7.80584E-4s
+
+2026-06-02 16:32:58,152 WARN clearHistoryConfig get scheduled
+
+2026-06-02 16:32:58,152 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 16:32:58,153 WARN clearConfigHistory, getBeforeStamp:2026-05-03 16:32:58.0, pageSize:1000
+
+2026-06-02 16:32:58,153 WARN history config cleaner successfully
+
+2026-06-02 16:40:12,738 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2026-06-02 16:42:58,012 INFO [capacityManagement] start correct usage
+
+2026-06-02 16:42:58,014 INFO [capacityManagement] end correct usage, cost: 0.001459379s
+
+2026-06-02 16:42:58,154 WARN clearHistoryConfig get scheduled
+
+2026-06-02 16:42:58,154 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 16:42:58,154 WARN clearConfigHistory, getBeforeStamp:2026-05-03 16:42:58.0, pageSize:1000
+
+2026-06-02 16:42:58,158 WARN history config cleaner successfully
+
+2026-06-02 16:52:58,014 INFO [capacityManagement] start correct usage
+
+2026-06-02 16:52:58,016 INFO [capacityManagement] end correct usage, cost: 0.00126228s
+
+2026-06-02 16:52:58,158 WARN clearHistoryConfig get scheduled
+
+2026-06-02 16:52:58,158 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 16:52:58,158 WARN clearConfigHistory, getBeforeStamp:2026-05-03 16:52:58.0, pageSize:1000
+
+2026-06-02 16:52:58,160 WARN history config cleaner successfully
+
+2026-06-02 17:02:58,016 INFO [capacityManagement] start correct usage
+
+2026-06-02 17:02:58,018 INFO [capacityManagement] end correct usage, cost: 0.001642677s
+
+2026-06-02 17:02:58,160 WARN clearHistoryConfig get scheduled
+
+2026-06-02 17:02:58,161 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 17:02:58,161 WARN clearConfigHistory, getBeforeStamp:2026-05-03 17:02:58.0, pageSize:1000
+
+2026-06-02 17:02:58,163 WARN history config cleaner successfully
+
+2026-06-02 17:12:58,018 INFO [capacityManagement] start correct usage
+
+2026-06-02 17:12:58,020 INFO [capacityManagement] end correct usage, cost: 0.001148452s
+
+2026-06-02 17:12:58,163 WARN clearHistoryConfig get scheduled
+
+2026-06-02 17:12:58,163 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 17:12:58,163 WARN clearConfigHistory, getBeforeStamp:2026-05-03 17:12:58.0, pageSize:1000
+
+2026-06-02 17:12:58,166 WARN history config cleaner successfully
+
+2026-06-02 17:22:58,020 INFO [capacityManagement] start correct usage
+
+2026-06-02 17:22:58,021 INFO [capacityManagement] end correct usage, cost: 7.34677E-4s
+
+2026-06-02 17:22:58,166 WARN clearHistoryConfig get scheduled
+
+2026-06-02 17:22:58,166 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 17:22:58,166 WARN clearConfigHistory, getBeforeStamp:2026-05-03 17:22:58.0, pageSize:1000
+
+2026-06-02 17:22:58,172 WARN history config cleaner successfully
+
+2026-06-02 17:32:58,021 INFO [capacityManagement] start correct usage
+
+2026-06-02 17:32:58,023 INFO [capacityManagement] end correct usage, cost: 0.001278513s
+
+2026-06-02 17:32:58,172 WARN clearHistoryConfig get scheduled
+
+2026-06-02 17:32:58,172 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 17:32:58,172 WARN clearConfigHistory, getBeforeStamp:2026-05-03 17:32:58.0, pageSize:1000
+
+2026-06-02 17:32:58,174 WARN history config cleaner successfully
+
+2026-06-02 17:42:58,023 INFO [capacityManagement] start correct usage
+
+2026-06-02 17:42:58,024 INFO [capacityManagement] end correct usage, cost: 0.001090779s
+
+2026-06-02 17:42:58,174 WARN clearHistoryConfig get scheduled
+
+2026-06-02 17:42:58,174 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 17:42:58,174 WARN clearConfigHistory, getBeforeStamp:2026-05-03 17:42:58.0, pageSize:1000
+
+2026-06-02 17:42:58,176 WARN history config cleaner successfully
+
+2026-06-02 17:52:58,025 INFO [capacityManagement] start correct usage
+
+2026-06-02 17:52:58,026 INFO [capacityManagement] end correct usage, cost: 9.15303E-4s
+
+2026-06-02 17:52:58,176 WARN clearHistoryConfig get scheduled
+
+2026-06-02 17:52:58,176 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 17:52:58,176 WARN clearConfigHistory, getBeforeStamp:2026-05-03 17:52:58.0, pageSize:1000
+
+2026-06-02 17:52:58,185 WARN history config cleaner successfully
+
+2026-06-02 18:02:58,026 INFO [capacityManagement] start correct usage
+
+2026-06-02 18:02:58,027 INFO [capacityManagement] end correct usage, cost: 0.001024108s
+
+2026-06-02 18:02:58,185 WARN clearHistoryConfig get scheduled
+
+2026-06-02 18:02:58,185 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 18:02:58,185 WARN clearConfigHistory, getBeforeStamp:2026-05-03 18:02:58.0, pageSize:1000
+
+2026-06-02 18:02:58,187 WARN history config cleaner successfully
+
+2026-06-02 18:12:58,028 INFO [capacityManagement] start correct usage
+
+2026-06-02 18:12:58,029 INFO [capacityManagement] end correct usage, cost: 9.79907E-4s
+
+2026-06-02 18:12:58,187 WARN clearHistoryConfig get scheduled
+
+2026-06-02 18:12:58,187 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 18:12:58,187 WARN clearConfigHistory, getBeforeStamp:2026-05-03 18:12:58.0, pageSize:1000
+
+2026-06-02 18:12:58,189 WARN history config cleaner successfully
+
+2026-06-02 18:22:58,029 INFO [capacityManagement] start correct usage
+
+2026-06-02 18:22:58,030 INFO [capacityManagement] end correct usage, cost: 0.001029449s
+
+2026-06-02 18:22:58,189 WARN clearHistoryConfig get scheduled
+
+2026-06-02 18:22:58,189 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 18:22:58,190 WARN clearConfigHistory, getBeforeStamp:2026-05-03 18:22:58.0, pageSize:1000
+
+2026-06-02 18:22:58,191 WARN history config cleaner successfully
+
+2026-06-02 18:32:58,031 INFO [capacityManagement] start correct usage
+
+2026-06-02 18:32:58,032 INFO [capacityManagement] end correct usage, cost: 0.001091749s
+
+2026-06-02 18:32:58,192 WARN clearHistoryConfig get scheduled
+
+2026-06-02 18:32:58,192 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 18:32:58,192 WARN clearConfigHistory, getBeforeStamp:2026-05-03 18:32:58.0, pageSize:1000
+
+2026-06-02 18:32:58,194 WARN history config cleaner successfully
+
+2026-06-02 18:42:58,032 INFO [capacityManagement] start correct usage
+
+2026-06-02 18:42:58,033 INFO [capacityManagement] end correct usage, cost: 0.001040452s
+
+2026-06-02 18:42:58,194 WARN clearHistoryConfig get scheduled
+
+2026-06-02 18:42:58,194 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 18:42:58,194 WARN clearConfigHistory, getBeforeStamp:2026-05-03 18:42:58.0, pageSize:1000
+
+2026-06-02 18:42:58,195 WARN history config cleaner successfully
+
+2026-06-02 18:52:58,034 INFO [capacityManagement] start correct usage
+
+2026-06-02 18:52:58,036 INFO [capacityManagement] end correct usage, cost: 0.002279444s
+
+2026-06-02 18:52:58,195 WARN clearHistoryConfig get scheduled
+
+2026-06-02 18:52:58,195 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 18:52:58,196 WARN clearConfigHistory, getBeforeStamp:2026-05-03 18:52:58.0, pageSize:1000
+
+2026-06-02 18:52:58,198 WARN history config cleaner successfully
+
+2026-06-02 19:02:58,036 INFO [capacityManagement] start correct usage
+
+2026-06-02 19:02:58,038 INFO [capacityManagement] end correct usage, cost: 0.001070973s
+
+2026-06-02 19:02:58,199 WARN clearHistoryConfig get scheduled
+
+2026-06-02 19:02:58,199 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 19:02:58,199 WARN clearConfigHistory, getBeforeStamp:2026-05-03 19:02:58.0, pageSize:1000
+
+2026-06-02 19:02:58,201 WARN history config cleaner successfully
+
+2026-06-02 19:12:58,038 INFO [capacityManagement] start correct usage
+
+2026-06-02 19:12:58,039 INFO [capacityManagement] end correct usage, cost: 0.001085533s
+
+2026-06-02 19:12:58,201 WARN clearHistoryConfig get scheduled
+
+2026-06-02 19:12:58,201 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 19:12:58,201 WARN clearConfigHistory, getBeforeStamp:2026-05-03 19:12:58.0, pageSize:1000
+
+2026-06-02 19:12:58,203 WARN history config cleaner successfully
+
+2026-06-02 19:22:58,040 INFO [capacityManagement] start correct usage
+
+2026-06-02 19:22:58,041 INFO [capacityManagement] end correct usage, cost: 9.14188E-4s
+
+2026-06-02 19:22:58,203 WARN clearHistoryConfig get scheduled
+
+2026-06-02 19:22:58,203 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 19:22:58,203 WARN clearConfigHistory, getBeforeStamp:2026-05-03 19:22:58.0, pageSize:1000
+
+2026-06-02 19:22:58,204 WARN history config cleaner successfully
+
+2026-06-02 19:32:58,041 INFO [capacityManagement] start correct usage
+
+2026-06-02 19:32:58,042 INFO [capacityManagement] end correct usage, cost: 9.04928E-4s
+
+2026-06-02 19:32:58,204 WARN clearHistoryConfig get scheduled
+
+2026-06-02 19:32:58,204 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 19:32:58,204 WARN clearConfigHistory, getBeforeStamp:2026-05-03 19:32:58.0, pageSize:1000
+
+2026-06-02 19:32:58,212 WARN history config cleaner successfully
+
+2026-06-02 19:42:58,042 INFO [capacityManagement] start correct usage
+
+2026-06-02 19:42:58,043 INFO [capacityManagement] end correct usage, cost: 8.72579E-4s
+
+2026-06-02 19:42:58,212 WARN clearHistoryConfig get scheduled
+
+2026-06-02 19:42:58,212 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 19:42:58,213 WARN clearConfigHistory, getBeforeStamp:2026-05-03 19:42:58.0, pageSize:1000
+
+2026-06-02 19:42:58,215 WARN history config cleaner successfully
+
+2026-06-02 19:52:58,043 INFO [capacityManagement] start correct usage
+
+2026-06-02 19:52:58,045 INFO [capacityManagement] end correct usage, cost: 9.50893E-4s
+
+2026-06-02 19:52:58,215 WARN clearHistoryConfig get scheduled
+
+2026-06-02 19:52:58,215 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 19:52:58,215 WARN clearConfigHistory, getBeforeStamp:2026-05-03 19:52:58.0, pageSize:1000
+
+2026-06-02 19:52:58,217 WARN history config cleaner successfully
+
+2026-06-02 20:02:58,045 INFO [capacityManagement] start correct usage
+
+2026-06-02 20:02:58,046 INFO [capacityManagement] end correct usage, cost: 8.52942E-4s
+
+2026-06-02 20:02:58,217 WARN clearHistoryConfig get scheduled
+
+2026-06-02 20:02:58,217 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 20:02:58,217 WARN clearConfigHistory, getBeforeStamp:2026-05-03 20:02:58.0, pageSize:1000
+
+2026-06-02 20:02:58,219 WARN history config cleaner successfully
+
+2026-06-02 20:12:58,046 INFO [capacityManagement] start correct usage
+
+2026-06-02 20:12:58,047 INFO [capacityManagement] end correct usage, cost: 9.04238E-4s
+
+2026-06-02 20:12:58,219 WARN clearHistoryConfig get scheduled
+
+2026-06-02 20:12:58,219 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 20:12:58,219 WARN clearConfigHistory, getBeforeStamp:2026-05-03 20:12:58.0, pageSize:1000
+
+2026-06-02 20:12:58,221 WARN history config cleaner successfully
+
+2026-06-02 20:22:58,048 INFO [capacityManagement] start correct usage
+
+2026-06-02 20:22:58,049 INFO [capacityManagement] end correct usage, cost: 8.56594E-4s
+
+2026-06-02 20:22:58,221 WARN clearHistoryConfig get scheduled
+
+2026-06-02 20:22:58,221 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 20:22:58,221 WARN clearConfigHistory, getBeforeStamp:2026-05-03 20:22:58.0, pageSize:1000
+
+2026-06-02 20:22:58,223 WARN history config cleaner successfully
+
+2026-06-02 20:32:58,049 INFO [capacityManagement] start correct usage
+
+2026-06-02 20:32:58,050 INFO [capacityManagement] end correct usage, cost: 9.09225E-4s
+
+2026-06-02 20:32:58,223 WARN clearHistoryConfig get scheduled
+
+2026-06-02 20:32:58,223 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 20:32:58,223 WARN clearConfigHistory, getBeforeStamp:2026-05-03 20:32:58.0, pageSize:1000
+
+2026-06-02 20:32:58,225 WARN history config cleaner successfully
+
+2026-06-02 20:42:58,050 INFO [capacityManagement] start correct usage
+
+2026-06-02 20:42:58,051 INFO [capacityManagement] end correct usage, cost: 8.83952E-4s
+
+2026-06-02 20:42:58,225 WARN clearHistoryConfig get scheduled
+
+2026-06-02 20:42:58,225 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 20:42:58,225 WARN clearConfigHistory, getBeforeStamp:2026-05-03 20:42:58.0, pageSize:1000
+
+2026-06-02 20:42:58,227 WARN history config cleaner successfully
+
+2026-06-02 20:52:58,052 INFO [capacityManagement] start correct usage
+
+2026-06-02 20:52:58,053 INFO [capacityManagement] end correct usage, cost: 9.6293E-4s
+
+2026-06-02 20:52:58,227 WARN clearHistoryConfig get scheduled
+
+2026-06-02 20:52:58,227 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 20:52:58,228 WARN clearConfigHistory, getBeforeStamp:2026-05-03 20:52:58.0, pageSize:1000
+
+2026-06-02 20:52:58,229 WARN history config cleaner successfully
+
+2026-06-02 21:02:58,053 INFO [capacityManagement] start correct usage
+
+2026-06-02 21:02:58,054 INFO [capacityManagement] end correct usage, cost: 8.95171E-4s
+
+2026-06-02 21:02:58,230 WARN clearHistoryConfig get scheduled
+
+2026-06-02 21:02:58,230 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 21:02:58,230 WARN clearConfigHistory, getBeforeStamp:2026-05-03 21:02:58.0, pageSize:1000
+
+2026-06-02 21:02:58,231 WARN history config cleaner successfully
+
+2026-06-02 21:12:58,054 INFO [capacityManagement] start correct usage
+
+2026-06-02 21:12:58,055 INFO [capacityManagement] end correct usage, cost: 8.24143E-4s
+
+2026-06-02 21:12:58,232 WARN clearHistoryConfig get scheduled
+
+2026-06-02 21:12:58,232 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 21:12:58,232 WARN clearConfigHistory, getBeforeStamp:2026-05-03 21:12:58.0, pageSize:1000
+
+2026-06-02 21:12:58,241 WARN history config cleaner successfully
+
+2026-06-02 21:22:58,056 INFO [capacityManagement] start correct usage
+
+2026-06-02 21:22:58,057 INFO [capacityManagement] end correct usage, cost: 9.55746E-4s
+
+2026-06-02 21:22:58,241 WARN clearHistoryConfig get scheduled
+
+2026-06-02 21:22:58,241 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 21:22:58,242 WARN clearConfigHistory, getBeforeStamp:2026-05-03 21:22:58.0, pageSize:1000
+
+2026-06-02 21:22:58,244 WARN history config cleaner successfully
+
+2026-06-02 21:32:58,057 INFO [capacityManagement] start correct usage
+
+2026-06-02 21:32:58,058 INFO [capacityManagement] end correct usage, cost: 8.91148E-4s
+
+2026-06-02 21:32:58,244 WARN clearHistoryConfig get scheduled
+
+2026-06-02 21:32:58,244 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 21:32:58,244 WARN clearConfigHistory, getBeforeStamp:2026-05-03 21:32:58.0, pageSize:1000
+
+2026-06-02 21:32:58,246 WARN history config cleaner successfully
+
+2026-06-02 21:42:58,058 INFO [capacityManagement] start correct usage
+
+2026-06-02 21:42:58,063 INFO [capacityManagement] end correct usage, cost: 0.004048187s
+
+2026-06-02 21:42:58,246 WARN clearHistoryConfig get scheduled
+
+2026-06-02 21:42:58,246 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 21:42:58,246 WARN clearConfigHistory, getBeforeStamp:2026-05-03 21:42:58.0, pageSize:1000
+
+2026-06-02 21:42:58,248 WARN history config cleaner successfully
+
+2026-06-02 21:52:58,063 INFO [capacityManagement] start correct usage
+
+2026-06-02 21:52:58,064 INFO [capacityManagement] end correct usage, cost: 8.42026E-4s
+
+2026-06-02 21:52:58,248 WARN clearHistoryConfig get scheduled
+
+2026-06-02 21:52:58,248 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 21:52:58,248 WARN clearConfigHistory, getBeforeStamp:2026-05-03 21:52:58.0, pageSize:1000
+
+2026-06-02 21:52:58,250 WARN history config cleaner successfully
+
+2026-06-02 22:02:58,064 INFO [capacityManagement] start correct usage
+
+2026-06-02 22:02:58,065 INFO [capacityManagement] end correct usage, cost: 8.63282E-4s
+
+2026-06-02 22:02:58,250 WARN clearHistoryConfig get scheduled
+
+2026-06-02 22:02:58,250 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 22:02:58,250 WARN clearConfigHistory, getBeforeStamp:2026-05-03 22:02:58.0, pageSize:1000
+
+2026-06-02 22:02:58,252 WARN history config cleaner successfully
+
+2026-06-02 22:12:58,066 INFO [capacityManagement] start correct usage
+
+2026-06-02 22:12:58,067 INFO [capacityManagement] end correct usage, cost: 8.11931E-4s
+
+2026-06-02 22:12:58,252 WARN clearHistoryConfig get scheduled
+
+2026-06-02 22:12:58,252 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 22:12:58,252 WARN clearConfigHistory, getBeforeStamp:2026-05-03 22:12:58.0, pageSize:1000
+
+2026-06-02 22:12:58,254 WARN history config cleaner successfully
+
+2026-06-02 22:22:58,067 INFO [capacityManagement] start correct usage
+
+2026-06-02 22:22:58,068 INFO [capacityManagement] end correct usage, cost: 3.50013E-4s
+
+2026-06-02 22:22:58,254 WARN clearHistoryConfig get scheduled
+
+2026-06-02 22:22:58,254 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 22:22:58,254 WARN clearConfigHistory, getBeforeStamp:2026-05-03 22:22:58.0, pageSize:1000
+
+2026-06-02 22:22:58,256 WARN history config cleaner successfully
+
+2026-06-02 22:32:58,068 INFO [capacityManagement] start correct usage
+
+2026-06-02 22:32:58,069 INFO [capacityManagement] end correct usage, cost: 7.61071E-4s
+
+2026-06-02 22:32:58,256 WARN clearHistoryConfig get scheduled
+
+2026-06-02 22:32:58,256 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 22:32:58,256 WARN clearConfigHistory, getBeforeStamp:2026-05-03 22:32:58.0, pageSize:1000
+
+2026-06-02 22:32:58,258 WARN history config cleaner successfully
+
+2026-06-02 22:42:58,069 INFO [capacityManagement] start correct usage
+
+2026-06-02 22:42:58,070 INFO [capacityManagement] end correct usage, cost: 8.59319E-4s
+
+2026-06-02 22:42:58,258 WARN clearHistoryConfig get scheduled
+
+2026-06-02 22:42:58,258 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 22:42:58,258 WARN clearConfigHistory, getBeforeStamp:2026-05-03 22:42:58.0, pageSize:1000
+
+2026-06-02 22:42:58,259 WARN history config cleaner successfully
+
+2026-06-02 22:52:58,070 INFO [capacityManagement] start correct usage
+
+2026-06-02 22:52:58,071 INFO [capacityManagement] end correct usage, cost: 0.001100075s
+
+2026-06-02 22:52:58,260 WARN clearHistoryConfig get scheduled
+
+2026-06-02 22:52:58,260 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 22:52:58,260 WARN clearConfigHistory, getBeforeStamp:2026-05-03 22:52:58.0, pageSize:1000
+
+2026-06-02 22:52:58,269 WARN history config cleaner successfully
+
+2026-06-02 23:02:58,072 INFO [capacityManagement] start correct usage
+
+2026-06-02 23:02:58,073 INFO [capacityManagement] end correct usage, cost: 9.69028E-4s
+
+2026-06-02 23:02:58,269 WARN clearHistoryConfig get scheduled
+
+2026-06-02 23:02:58,269 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 23:02:58,269 WARN clearConfigHistory, getBeforeStamp:2026-05-03 23:02:58.0, pageSize:1000
+
+2026-06-02 23:02:58,271 WARN history config cleaner successfully
+
+2026-06-02 23:12:58,073 INFO [capacityManagement] start correct usage
+
+2026-06-02 23:12:58,074 INFO [capacityManagement] end correct usage, cost: 8.61449E-4s
+
+2026-06-02 23:12:58,271 WARN clearHistoryConfig get scheduled
+
+2026-06-02 23:12:58,271 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 23:12:58,271 WARN clearConfigHistory, getBeforeStamp:2026-05-03 23:12:58.0, pageSize:1000
+
+2026-06-02 23:12:58,273 WARN history config cleaner successfully
+
+2026-06-02 23:22:58,074 INFO [capacityManagement] start correct usage
+
+2026-06-02 23:22:58,075 INFO [capacityManagement] end correct usage, cost: 2.9865E-4s
+
+2026-06-02 23:22:58,273 WARN clearHistoryConfig get scheduled
+
+2026-06-02 23:22:58,273 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 23:22:58,273 WARN clearConfigHistory, getBeforeStamp:2026-05-03 23:22:58.0, pageSize:1000
+
+2026-06-02 23:22:58,275 WARN history config cleaner successfully
+
+2026-06-02 23:32:58,075 INFO [capacityManagement] start correct usage
+
+2026-06-02 23:32:58,075 INFO [capacityManagement] end correct usage, cost: 3.22735E-4s
+
+2026-06-02 23:32:58,275 WARN clearHistoryConfig get scheduled
+
+2026-06-02 23:32:58,275 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 23:32:58,275 WARN clearConfigHistory, getBeforeStamp:2026-05-03 23:32:58.0, pageSize:1000
+
+2026-06-02 23:32:58,276 WARN history config cleaner successfully
+
+2026-06-02 23:42:58,075 INFO [capacityManagement] start correct usage
+
+2026-06-02 23:42:58,076 INFO [capacityManagement] end correct usage, cost: 8.08554E-4s
+
+2026-06-02 23:42:58,276 WARN clearHistoryConfig get scheduled
+
+2026-06-02 23:42:58,276 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 23:42:58,276 WARN clearConfigHistory, getBeforeStamp:2026-05-03 23:42:58.0, pageSize:1000
+
+2026-06-02 23:42:58,277 WARN history config cleaner successfully
+
+2026-06-02 23:52:58,077 INFO [capacityManagement] start correct usage
+
+2026-06-02 23:52:58,078 INFO [capacityManagement] end correct usage, cost: 0.001117338s
+
+2026-06-02 23:52:58,278 WARN clearHistoryConfig get scheduled
+
+2026-06-02 23:52:58,278 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2026-06-02 23:52:58,278 WARN clearConfigHistory, getBeforeStamp:2026-05-03 23:52:58.0, pageSize:1000
+
+2026-06-02 23:52:58,280 WARN history config cleaner successfully
+

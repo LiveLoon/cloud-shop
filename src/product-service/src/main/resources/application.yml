@@ -1,0 +1,59 @@
+# Spring 配置
+spring:
+  application:
+    name: product-service
+  # MySQL数据源配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:47219/db_product?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+
+  # JPA / Hibernate 配置（替代 MyBatis Plus）
+  jpa:
+    database: mysql
+    show-sql: true                      # 控制台打印 SQL 语句
+    hibernate:
+      ddl-auto: update                  # 可选：validate | update | create | create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+        format_sql: true                # 格式化 SQL 输出
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8858   # 你的 Sentinel 控制台地址
+        port: 8719                # 服务与 Sentinel 通信的端口，确保未被占用
+      eager: true
+# 日志配置（使 JPA 打印参数绑定值，便于调试）
+seata:
+  enabled: true
+  application-id: ${spring.application.name}
+  tx-service-group: cloud_shop_tx_group
+  registry:
+    type: nacos
+    nacos:
+      application: seata-server
+      server-addr: 127.0.0.1:8848
+      namespace: ""
+      group: SEATA_GROUP
+  config:
+    type: nacos
+    nacos:
+      server-addr: 127.0.0.1:8848
+      namespace: ""
+      group: SEATA_GROUP
+  client:
+    feign:
+      enabled: true
+logging:
+  level:
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+
+# 服务器配置
+server:
+  port: 8200

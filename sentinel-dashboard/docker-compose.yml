@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  sentinel-dashboard:
+    image: bladex/sentinel-dashboard:1.8.6   # 推荐使用稳定版
+    container_name: cloud-shop-sentinel
+    ports:
+      - "8858:8858"           # 映射控制台web端口
+    environment:
+      - JAVA_OPTS=-Dserver.port=8858 -Dcsp.sentinel.dashboard.server=localhost:8858
+    restart: unless-stopped

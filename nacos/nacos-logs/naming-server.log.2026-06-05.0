@@ -1,0 +1,466 @@
+2026-06-05 09:43:17,839 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=75}, 1780566124871_192.168.0.1_43926
+
+2026-06-05 09:43:17,844 INFO Client connection 1780566124871_192.168.0.1_43926 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:17,861 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=76}, 1780566126938_192.168.0.1_43958
+
+2026-06-05 09:43:17,866 INFO Client connection 1780566126938_192.168.0.1_43958 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:18,212 INFO Client connection 1780566119533_192.168.0.1_58266 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:18,212 INFO Client connection 1780566120025_192.168.0.1_58278 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:18,221 INFO Client connection 1780566121553_192.168.0.1_58300 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:18,221 INFO Client connection 1780566120807_192.168.0.1_58284 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:23,571 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=77}, 1780566128323_192.168.0.1_43984
+
+2026-06-05 09:43:23,575 INFO Client connection 1780566128323_192.168.0.1_43984 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:23,937 INFO Client connection 1780566123537_192.168.0.1_43896 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:23,939 INFO Client connection 1780566122547_192.168.0.1_58310 disconnect, remove instances and subscribers
+
+2026-06-05 09:43:26,632 INFO Client connection 1780623806626_192.168.0.1_51426 connect
+
+2026-06-05 09:43:28,549 INFO Client connection 1780623808542_192.168.0.1_51430 connect
+
+2026-06-05 09:43:28,554 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=78}, 1780623808542_192.168.0.1_51430
+
+2026-06-05 10:05:01,641 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=9}, 1780566130923_192.168.0.1_43994
+
+2026-06-05 10:05:01,648 INFO Client connection 1780566130923_192.168.0.1_43994 disconnect, remove instances and subscribers
+
+2026-06-05 10:05:02,008 INFO Client connection 1780566127397_192.168.0.1_43974 disconnect, remove instances and subscribers
+
+2026-06-05 10:05:02,008 INFO Client connection 1780566127931_192.168.0.1_43976 disconnect, remove instances and subscribers
+
+2026-06-05 10:05:04,955 INFO Client connection 1780625104951_192.168.0.1_55860 connect
+
+2026-06-05 10:05:07,067 INFO Client connection 1780625107062_192.168.0.1_55862 connect
+
+2026-06-05 10:05:07,071 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=10}, 1780625107062_192.168.0.1_55862
+
+2026-06-05 10:06:50,853 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=11}, 1780625107062_192.168.0.1_55862
+
+2026-06-05 10:06:50,857 INFO Client connection 1780625107062_192.168.0.1_55862 disconnect, remove instances and subscribers
+
+2026-06-05 10:06:51,210 INFO Client connection 1780625104696_192.168.0.1_55856 disconnect, remove instances and subscribers
+
+2026-06-05 10:06:51,210 INFO Client connection 1780625104951_192.168.0.1_55860 disconnect, remove instances and subscribers
+
+2026-06-05 10:06:53,324 INFO Client connection 1780625213320_192.168.0.1_50192 connect
+
+2026-06-05 10:06:55,983 INFO Client connection 1780625215977_192.168.0.1_52496 connect
+
+2026-06-05 10:06:55,989 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=12}, 1780625215977_192.168.0.1_52496
+
+2026-06-05 10:07:31,423 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=13}, 1780625215977_192.168.0.1_52496
+
+2026-06-05 10:07:31,428 INFO Client connection 1780625215977_192.168.0.1_52496 disconnect, remove instances and subscribers
+
+2026-06-05 10:07:31,843 INFO Client connection 1780625213320_192.168.0.1_50192 disconnect, remove instances and subscribers
+
+2026-06-05 10:07:31,843 INFO Client connection 1780625213019_192.168.0.1_50176 disconnect, remove instances and subscribers
+
+2026-06-05 10:07:38,833 INFO Client connection 1780625258828_192.168.0.1_36474 connect
+
+2026-06-05 10:07:41,546 INFO Client connection 1780625261542_192.168.0.1_36490 connect
+
+2026-06-05 10:07:41,551 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=14}, 1780625261542_192.168.0.1_36490
+
+2026-06-05 10:08:07,031 INFO Client connection 1780625261542_192.168.0.1_36490 disconnect, remove instances and subscribers
+
+2026-06-05 10:08:07,031 INFO Client connection 1780625258493_192.168.0.1_36462 disconnect, remove instances and subscribers
+
+2026-06-05 10:08:07,032 INFO Client connection 1780625258828_192.168.0.1_36474 disconnect, remove instances and subscribers
+
+2026-06-05 10:08:15,371 INFO Client connection 1780625295357_192.168.0.1_43100 connect
+
+2026-06-05 10:08:15,373 INFO Client connection 1780625295357_192.168.0.1_43124 connect
+
+2026-06-05 10:08:15,408 INFO Client connection 1780625295394_192.168.0.1_43136 connect
+
+2026-06-05 10:08:15,408 INFO Client connection 1780625295398_192.168.0.1_43142 connect
+
+2026-06-05 10:08:15,413 INFO Client connection 1780625295357_192.168.0.1_43100 disconnect, remove instances and subscribers
+
+2026-06-05 10:08:15,413 INFO Client connection 1780625295357_192.168.0.1_43114 disconnect, remove instances and subscribers
+
+2026-06-05 10:08:15,413 INFO Client connection 1780625295357_192.168.0.1_43124 disconnect, remove instances and subscribers
+
+2026-06-05 10:08:32,640 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=16}, 1780625295394_192.168.0.1_43136
+
+2026-06-05 10:09:00,037 INFO Client connection 1780625295398_192.168.0.1_43142 disconnect, remove instances and subscribers
+
+2026-06-05 10:09:00,037 INFO Client connection 1780625295394_192.168.0.1_43136 disconnect, remove instances and subscribers
+
+2026-06-05 10:09:00,038 INFO Client connection 1780625295394_192.168.0.1_43132 disconnect, remove instances and subscribers
+
+2026-06-05 10:10:26,023 WARN namespace : public, [DEFAULT_GROUP@@order-service] services are automatically cleaned
+
+2026-06-05 10:11:12,698 INFO Client connection 1780625472686_192.168.0.1_41528 connect
+
+2026-06-05 10:11:12,719 INFO Client connection 1780625472712_192.168.0.1_41532 connect
+
+2026-06-05 10:11:12,722 INFO Client connection 1780625472686_192.168.0.1_41528 disconnect, remove instances and subscribers
+
+2026-06-05 10:11:12,733 INFO Client connection 1780625472731_192.168.0.1_41546 connect
+
+2026-06-05 10:11:12,742 INFO Client connection 1780625472739_192.168.0.1_41556 connect
+
+2026-06-05 10:11:12,744 INFO Client connection 1780625472731_192.168.0.1_41546 disconnect, remove instances and subscribers
+
+2026-06-05 10:11:12,808 INFO Client connection 1780625472712_192.168.0.1_41532 disconnect, remove instances and subscribers
+
+2026-06-05 10:11:13,187 INFO Client connection 1780625472366_192.168.0.1_41500 disconnect, remove instances and subscribers
+
+2026-06-05 10:11:13,187 INFO Client connection 1780625472739_192.168.0.1_41556 disconnect, remove instances and subscribers
+
+2026-06-05 10:11:16,636 INFO Client connection 1780625476632_192.168.0.1_55978 connect
+
+2026-06-05 10:11:18,772 INFO Client connection 1780625478766_192.168.0.1_55984 connect
+
+2026-06-05 10:11:18,778 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=0}, 1780625478766_192.168.0.1_55984
+
+2026-06-05 10:15:09,600 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=1}, 1780625478766_192.168.0.1_55984
+
+2026-06-05 10:15:09,605 INFO Client connection 1780625478766_192.168.0.1_55984 disconnect, remove instances and subscribers
+
+2026-06-05 10:15:09,974 INFO Client connection 1780625476377_192.168.0.1_55972 disconnect, remove instances and subscribers
+
+2026-06-05 10:15:09,974 INFO Client connection 1780625476632_192.168.0.1_55978 disconnect, remove instances and subscribers
+
+2026-06-05 10:15:12,520 INFO Client connection 1780625712516_192.168.0.1_52842 connect
+
+2026-06-05 10:15:14,758 INFO Client connection 1780625714753_192.168.0.1_50524 connect
+
+2026-06-05 10:15:14,764 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=2}, 1780625714753_192.168.0.1_50524
+
+2026-06-05 10:36:19,501 INFO Client connection 1780626979498_192.168.0.1_39722 connect
+
+2026-06-05 10:36:21,591 INFO Client connection 1780626979217_192.168.0.1_39716 disconnect, remove instances and subscribers
+
+2026-06-05 10:36:21,591 INFO Client connection 1780626979498_192.168.0.1_39722 disconnect, remove instances and subscribers
+
+2026-06-05 10:37:28,506 INFO Client connection 1780627048501_192.168.0.1_37104 connect
+
+2026-06-05 10:37:33,980 INFO Client connection 1780627053977_192.168.0.1_47896 connect
+
+2026-06-05 10:37:33,983 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=0}, 1780627053977_192.168.0.1_47896
+
+2026-06-05 11:03:52,534 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=1}, 1780627053977_192.168.0.1_47896
+
+2026-06-05 11:03:52,540 INFO Client connection 1780627053977_192.168.0.1_47896 disconnect, remove instances and subscribers
+
+2026-06-05 11:03:52,910 INFO Client connection 1780627048227_192.168.0.1_37094 disconnect, remove instances and subscribers
+
+2026-06-05 11:03:52,910 INFO Client connection 1780627048501_192.168.0.1_37104 disconnect, remove instances and subscribers
+
+2026-06-05 11:03:55,325 INFO Client connection 1780628635320_192.168.0.1_45560 connect
+
+2026-06-05 11:03:58,276 INFO Client connection 1780628638271_192.168.0.1_45562 connect
+
+2026-06-05 11:03:58,282 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=2}, 1780628638271_192.168.0.1_45562
+
+2026-06-05 15:55:21,339 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=3}, 1780628638271_192.168.0.1_45562
+
+2026-06-05 15:55:21,343 INFO Client connection 1780628638271_192.168.0.1_45562 disconnect, remove instances and subscribers
+
+2026-06-05 15:55:21,704 INFO Client connection 1780628635320_192.168.0.1_45560 disconnect, remove instances and subscribers
+
+2026-06-05 15:55:21,704 INFO Client connection 1780628635057_192.168.0.1_45556 disconnect, remove instances and subscribers
+
+2026-06-05 15:55:25,382 INFO Client connection 1780646125377_192.168.0.1_51792 connect
+
+2026-06-05 15:55:27,342 INFO Client connection 1780646125126_192.168.0.1_51788 disconnect, remove instances and subscribers
+
+2026-06-05 15:55:27,342 INFO Client connection 1780646125377_192.168.0.1_51792 disconnect, remove instances and subscribers
+
+2026-06-05 15:56:26,061 WARN namespace : public, [DEFAULT_GROUP@@payment-service] services are automatically cleaned
+
+2026-06-05 16:26:36,648 INFO Client connection 1780647996644_192.168.0.1_40116 connect
+
+2026-06-05 16:26:38,868 INFO Client connection 1780647996644_192.168.0.1_40116 disconnect, remove instances and subscribers
+
+2026-06-05 16:26:38,868 INFO Client connection 1780647996397_192.168.0.1_40106 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:36,191 INFO Client connection 1780648176186_192.168.0.1_46282 connect
+
+2026-06-05 16:29:38,486 INFO Client connection 1780648178480_192.168.0.1_46294 connect
+
+2026-06-05 16:29:38,490 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=0}, 1780648178480_192.168.0.1_46294
+
+2026-06-05 16:29:54,551 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=1}, 1780648178480_192.168.0.1_46294
+
+2026-06-05 16:29:54,555 INFO Client connection 1780648178480_192.168.0.1_46294 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,593 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=3}, 1780625714753_192.168.0.1_50524
+
+2026-06-05 16:29:54,597 INFO Client connection 1780625714753_192.168.0.1_50524 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,616 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='product-service', ephemeral=true, revision=23}, 1780566129518_192.168.0.1_43988
+
+2026-06-05 16:29:54,619 INFO Client connection 1780566129518_192.168.0.1_43988 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,638 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=79}, 1780623808542_192.168.0.1_51430
+
+2026-06-05 16:29:54,642 INFO Client connection 1780623808542_192.168.0.1_51430 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,914 INFO Client connection 1780648175939_192.168.0.1_46266 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,914 INFO Client connection 1780648176186_192.168.0.1_46282 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,953 INFO Client connection 1780625712516_192.168.0.1_52842 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,953 INFO Client connection 1780625712244_192.168.0.1_52830 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,969 INFO Client connection 1780566124727_192.168.0.1_43910 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,970 INFO Client connection 1780566125573_192.168.0.1_43942 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,988 INFO Client connection 1780623806626_192.168.0.1_51426 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:54,988 INFO Client connection 1780623806352_192.168.0.1_51422 disconnect, remove instances and subscribers
+
+2026-06-05 16:29:56,605 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=15}, 1780566118356_192.168.0.1_58254
+
+2026-06-05 16:29:56,614 INFO Client connection 1780566118356_192.168.0.1_58254 disconnect, remove instances and subscribers
+
+2026-06-05 16:31:26,067 WARN namespace : public, [DEFAULT_GROUP@@product-service] services are automatically cleaned
+
+2026-06-05 16:31:26,067 WARN namespace : public, [DEFAULT_GROUP@@user-service] services are automatically cleaned
+
+2026-06-05 16:31:26,067 WARN namespace : public, [DEFAULT_GROUP@@order-service] services are automatically cleaned
+
+2026-06-05 16:31:26,067 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2026-06-05 16:31:26,067 WARN namespace : public, [DEFAULT_GROUP@@payment-service] services are automatically cleaned
+
+2026-06-05 17:03:48,845 INFO Client connection 1780650228841_192.168.0.1_60914 connect
+
+2026-06-05 17:03:58,826 INFO Client connection 1780650238820_192.168.0.1_46798 connect
+
+2026-06-05 17:03:58,832 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=0}, 1780650238820_192.168.0.1_46798
+
+2026-06-05 17:04:24,111 INFO Client connection 1780650264041_192.168.0.1_49146 connect
+
+2026-06-05 17:04:24,137 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=0}, 1780650264041_192.168.0.1_49146
+
+2026-06-05 17:04:25,053 INFO Client connection 1780650265044_192.168.0.1_49166 connect
+
+2026-06-05 17:04:26,548 INFO Client connection 1780650266543_192.168.0.1_49186 connect
+
+2026-06-05 17:04:27,887 INFO Client connection 1780650267883_192.168.0.1_49190 connect
+
+2026-06-05 17:04:29,666 INFO Client connection 1780650269657_192.168.0.1_49192 connect
+
+2026-06-05 17:04:29,674 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=0}, 1780650269657_192.168.0.1_49192
+
+2026-06-05 17:04:30,572 INFO Client connection 1780650270560_192.168.0.1_49194 connect
+
+2026-06-05 17:04:30,579 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='product-service', ephemeral=true, revision=0}, 1780650270560_192.168.0.1_49194
+
+2026-06-05 17:04:31,090 INFO Client connection 1780650271086_192.168.0.1_49208 connect
+
+2026-06-05 17:04:31,093 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=0}, 1780650271086_192.168.0.1_49208
+
+2026-06-05 17:06:42,140 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=1}, 1780650238820_192.168.0.1_46798
+
+2026-06-05 17:06:42,145 INFO Client connection 1780650238820_192.168.0.1_46798 disconnect, remove instances and subscribers
+
+2026-06-05 17:06:42,506 INFO Client connection 1780650228587_192.168.0.1_60906 disconnect, remove instances and subscribers
+
+2026-06-05 17:06:42,507 INFO Client connection 1780650228841_192.168.0.1_60914 disconnect, remove instances and subscribers
+
+2026-06-05 17:06:44,560 INFO Client connection 1780650404556_192.168.0.1_58028 connect
+
+2026-06-05 17:06:49,118 INFO Client connection 1780650409114_192.168.0.1_58040 connect
+
+2026-06-05 17:06:49,123 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=2}, 1780650409114_192.168.0.1_58040
+
+2026-06-05 17:10:38,443 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=3}, 1780650409114_192.168.0.1_58040
+
+2026-06-05 17:10:38,447 INFO Client connection 1780650409114_192.168.0.1_58040 disconnect, remove instances and subscribers
+
+2026-06-05 17:10:38,804 INFO Client connection 1780650404299_192.168.0.1_58014 disconnect, remove instances and subscribers
+
+2026-06-05 17:10:38,804 INFO Client connection 1780650404556_192.168.0.1_58028 disconnect, remove instances and subscribers
+
+2026-06-05 17:10:40,824 INFO Client connection 1780650640819_192.168.0.1_41018 connect
+
+2026-06-05 17:10:43,375 INFO Client connection 1780650643369_192.168.0.1_54290 connect
+
+2026-06-05 17:10:43,381 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=4}, 1780650643369_192.168.0.1_54290
+
+2026-06-05 17:10:56,653 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=5}, 1780650643369_192.168.0.1_54290
+
+2026-06-05 17:10:56,658 INFO Client connection 1780650643369_192.168.0.1_54290 disconnect, remove instances and subscribers
+
+2026-06-05 17:10:57,018 INFO Client connection 1780650640819_192.168.0.1_41018 disconnect, remove instances and subscribers
+
+2026-06-05 17:10:57,018 INFO Client connection 1780650640568_192.168.0.1_41006 disconnect, remove instances and subscribers
+
+2026-06-05 17:10:59,011 INFO Client connection 1780650659007_192.168.0.1_56634 connect
+
+2026-06-05 17:11:01,591 INFO Client connection 1780650661585_192.168.0.1_56650 connect
+
+2026-06-05 17:11:01,595 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=6}, 1780650661585_192.168.0.1_56650
+
+2026-06-05 17:13:18,593 INFO Client connection 1780650661585_192.168.0.1_56650 disconnect, remove instances and subscribers
+
+2026-06-05 17:13:18,593 INFO Client connection 1780650658755_192.168.0.1_56618 disconnect, remove instances and subscribers
+
+2026-06-05 17:13:18,596 INFO Client connection 1780650659007_192.168.0.1_56634 disconnect, remove instances and subscribers
+
+2026-06-05 17:13:21,431 INFO Client connection 1780650801426_192.168.0.1_53326 connect
+
+2026-06-05 17:13:23,897 INFO Client connection 1780650803888_192.168.0.1_34504 connect
+
+2026-06-05 17:13:23,903 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=8}, 1780650803888_192.168.0.1_34504
+
+2026-06-05 17:14:46,196 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=9}, 1780650803888_192.168.0.1_34504
+
+2026-06-05 17:14:46,206 INFO Client connection 1780650803888_192.168.0.1_34504 disconnect, remove instances and subscribers
+
+2026-06-05 17:14:46,557 INFO Client connection 1780650801426_192.168.0.1_53326 disconnect, remove instances and subscribers
+
+2026-06-05 17:14:46,557 INFO Client connection 1780650801153_192.168.0.1_53316 disconnect, remove instances and subscribers
+
+2026-06-05 17:14:48,528 INFO Client connection 1780650888524_192.168.0.1_55498 connect
+
+2026-06-05 17:14:50,865 INFO Client connection 1780650890860_192.168.0.1_55500 connect
+
+2026-06-05 17:14:50,869 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=10}, 1780650890860_192.168.0.1_55500
+
+2026-06-05 17:19:42,596 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=11}, 1780650890860_192.168.0.1_55500
+
+2026-06-05 17:19:42,602 INFO Client connection 1780650890860_192.168.0.1_55500 disconnect, remove instances and subscribers
+
+2026-06-05 17:19:42,967 INFO Client connection 1780650888262_192.168.0.1_55490 disconnect, remove instances and subscribers
+
+2026-06-05 17:19:42,967 INFO Client connection 1780650888524_192.168.0.1_55498 disconnect, remove instances and subscribers
+
+2026-06-05 17:19:45,998 INFO Client connection 1780651185994_192.168.0.1_38478 connect
+
+2026-06-05 17:19:48,615 INFO Client connection 1780651188608_192.168.0.1_38490 connect
+
+2026-06-05 17:19:48,620 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=12}, 1780651188608_192.168.0.1_38490
+
+2026-06-05 17:33:16,694 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=13}, 1780651188608_192.168.0.1_38490
+
+2026-06-05 17:33:16,697 INFO Client connection 1780651188608_192.168.0.1_38490 disconnect, remove instances and subscribers
+
+2026-06-05 17:33:17,068 INFO Client connection 1780651185994_192.168.0.1_38478 disconnect, remove instances and subscribers
+
+2026-06-05 17:33:17,068 INFO Client connection 1780651185737_192.168.0.1_38476 disconnect, remove instances and subscribers
+
+2026-06-05 17:33:20,451 INFO Client connection 1780652000448_192.168.0.1_37022 connect
+
+2026-06-05 17:33:22,947 INFO Client connection 1780652002940_192.168.0.1_37032 connect
+
+2026-06-05 17:33:22,954 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=14}, 1780652002940_192.168.0.1_37032
+
+2026-06-05 17:34:13,719 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=15}, 1780652002940_192.168.0.1_37032
+
+2026-06-05 17:34:13,734 INFO Client connection 1780652002940_192.168.0.1_37032 disconnect, remove instances and subscribers
+
+2026-06-05 17:34:14,116 INFO Client connection 1780652000448_192.168.0.1_37022 disconnect, remove instances and subscribers
+
+2026-06-05 17:34:14,116 INFO Client connection 1780652000196_192.168.0.1_37006 disconnect, remove instances and subscribers
+
+2026-06-05 17:34:16,912 INFO Client connection 1780652056907_192.168.0.1_51958 connect
+
+2026-06-05 17:34:19,282 INFO Client connection 1780652059276_192.168.0.1_51974 connect
+
+2026-06-05 17:34:19,285 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=16}, 1780652059276_192.168.0.1_51974
+
+2026-06-05 17:35:35,210 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=17}, 1780652059276_192.168.0.1_51974
+
+2026-06-05 17:35:35,215 INFO Client connection 1780652059276_192.168.0.1_51974 disconnect, remove instances and subscribers
+
+2026-06-05 17:35:35,585 INFO Client connection 1780652056658_192.168.0.1_51954 disconnect, remove instances and subscribers
+
+2026-06-05 17:35:35,585 INFO Client connection 1780652056907_192.168.0.1_51958 disconnect, remove instances and subscribers
+
+2026-06-05 17:35:38,359 INFO Client connection 1780652138354_192.168.0.1_43464 connect
+
+2026-06-05 17:35:40,992 INFO Client connection 1780652140988_192.168.0.1_43466 connect
+
+2026-06-05 17:35:40,995 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=18}, 1780652140988_192.168.0.1_43466
+
+2026-06-05 17:36:17,648 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=19}, 1780652140988_192.168.0.1_43466
+
+2026-06-05 17:36:17,657 INFO Client connection 1780652140988_192.168.0.1_43466 disconnect, remove instances and subscribers
+
+2026-06-05 17:36:18,015 INFO Client connection 1780652138096_192.168.0.1_43452 disconnect, remove instances and subscribers
+
+2026-06-05 17:36:18,015 INFO Client connection 1780652138354_192.168.0.1_43464 disconnect, remove instances and subscribers
+
+2026-06-05 17:36:19,970 INFO Client connection 1780652179965_192.168.0.1_52886 connect
+
+2026-06-05 17:36:22,352 INFO Client connection 1780652182346_192.168.0.1_52890 connect
+
+2026-06-05 17:36:22,356 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=20}, 1780652182346_192.168.0.1_52890
+
+2026-06-05 17:42:32,761 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=21}, 1780652182346_192.168.0.1_52890
+
+2026-06-05 17:42:32,765 INFO Client connection 1780652182346_192.168.0.1_52890 disconnect, remove instances and subscribers
+
+2026-06-05 17:42:33,115 INFO Client connection 1780652179965_192.168.0.1_52886 disconnect, remove instances and subscribers
+
+2026-06-05 17:42:33,115 INFO Client connection 1780652179692_192.168.0.1_52878 disconnect, remove instances and subscribers
+
+2026-06-05 17:42:35,876 INFO Client connection 1780652555872_192.168.0.1_58090 connect
+
+2026-06-05 17:42:38,272 INFO Client connection 1780652558268_192.168.0.1_58102 connect
+
+2026-06-05 17:42:38,276 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=22}, 1780652558268_192.168.0.1_58102
+
+2026-06-05 17:54:50,655 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='payment-service', ephemeral=true, revision=23}, 1780652558268_192.168.0.1_58102
+
+2026-06-05 17:54:50,659 INFO Client connection 1780652558268_192.168.0.1_58102 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:50,700 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=1}, 1780650271086_192.168.0.1_49208
+
+2026-06-05 17:54:50,703 INFO Client connection 1780650271086_192.168.0.1_49208 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:50,722 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='product-service', ephemeral=true, revision=1}, 1780650270560_192.168.0.1_49194
+
+2026-06-05 17:54:50,725 INFO Client connection 1780650270560_192.168.0.1_49194 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:50,746 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-service', ephemeral=true, revision=1}, 1780650269657_192.168.0.1_49192
+
+2026-06-05 17:54:50,750 INFO Client connection 1780650269657_192.168.0.1_49192 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,035 INFO Client connection 1780652555610_192.168.0.1_58088 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,035 INFO Client connection 1780652555872_192.168.0.1_58090 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,063 INFO Client connection 1780650267883_192.168.0.1_49190 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,063 INFO Client connection 1780650267521_192.168.0.1_49188 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,072 INFO Client connection 1780650266543_192.168.0.1_49186 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,072 INFO Client connection 1780650265977_192.168.0.1_49180 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,097 INFO Client connection 1780650264508_192.168.0.1_49152 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:51,097 INFO Client connection 1780650265044_192.168.0.1_49166 disconnect, remove instances and subscribers
+
+2026-06-05 17:54:52,699 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, 1780650264041_192.168.0.1_49146
+
+2026-06-05 17:54:52,712 INFO Client connection 1780650264041_192.168.0.1_49146 disconnect, remove instances and subscribers
+
+2026-06-05 17:56:26,078 WARN namespace : public, [DEFAULT_GROUP@@product-service] services are automatically cleaned
+
+2026-06-05 17:56:26,078 WARN namespace : public, [DEFAULT_GROUP@@user-service] services are automatically cleaned
+
+2026-06-05 17:56:26,078 WARN namespace : public, [DEFAULT_GROUP@@order-service] services are automatically cleaned
+
+2026-06-05 17:56:26,078 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2026-06-05 17:56:26,078 WARN namespace : public, [DEFAULT_GROUP@@payment-service] services are automatically cleaned
+

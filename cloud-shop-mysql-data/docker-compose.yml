@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0.33
+    container_name: cloud-shop
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: cloud_shop
+      TZ: Asia/Shanghai
+    ports:
+      - "47219:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./my.cnf:/etc/mysql/conf.d/my.cnf
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --max_connections=200
+      - --wait_timeout=28800
+      - --authentication_policy=caching_sha2_password
+    networks:
+      - shop-network
+
+volumes:
+  mysql-data:
+    driver: local
+
+networks:
+  shop-network:
+    driver: bridge

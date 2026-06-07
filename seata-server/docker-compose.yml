@@ -1,0 +1,39 @@
+version: "3.1"
+services:
+  seata-server:
+    image: seataio/seata-server:2.0.0
+    container_name: cloud-shop-seata-server
+    ports:
+      - "7091:7091"
+      - "8091:8091"
+    environment:
+      - SEATA_PORT=8091
+      - STORE_MODE=file
+      - TZ=Asia/Shanghai
+
+      # 注册中心
+      - SEATA_REGISTRY_TYPE=nacos
+      - SEATA_REGISTRY_NACOS_SERVER_ADDR=cloud-shop-nacos-standalone:8848
+      - SEATA_REGISTRY_NACOS_NAMESPACE=
+      - SEATA_REGISTRY_NACOS_GROUP=SEATA_GROUP
+      # 如果 Nacos 没开启认证，请删除下面两行或留空
+      - SEATA_REGISTRY_NACOS_USERNAME=nacos
+      - SEATA_REGISTRY_NACOS_PASSWORD=nacos
+
+      # 配置中心
+      - SEATA_CONFIG_TYPE=nacos
+      - SEATA_CONFIG_NACOS_SERVER_ADDR=cloud-shop-nacos-standalone:8848
+      - SEATA_CONFIG_NACOS_NAMESPACE=
+      - SEATA_CONFIG_NACOS_GROUP=SEATA_GROUP
+      - SEATA_CONFIG_NACOS_DATA_ID=seataServer.properties
+      - SEATA_CONFIG_NACOS_USERNAME=
+      - SEATA_CONFIG_NACOS_PASSWORD=
+
+    networks:
+      - cloud-shop-network          # 加入自定义网络
+    restart: unless-stopped
+
+
+networks:
+  cloud-shop-network:
+    external: true        # 使用外部已创建的网络
